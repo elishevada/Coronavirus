@@ -1,0 +1,83 @@
+
+#pic{
+    border:hidden;
+    margin: 10px;
+}
+
+#nav{
+    margin: 15px;
+}
+
+#state{
+    float: left;
+    
+}
+
+#frame{
+    color:rgb(81, 152, 175);
+}
+
+
+#all{
+    margin: 15px;
+    background-color: #498ca1;
+}
+
+ul li{
+    color: white;
+    display: inline;
+}
+
+#text{
+    color: white;
+    
+    width: 70% ; 
+    float: right;
+    height: 200px;
+    text-align: center;
+    background-color: #0e0c58
+}
+
+li {
+    
+  padding: 20px 30px;
+}
+
+
+.topNav{
+    float: right;
+}
+
+#lan{
+    padding: 10px 50px;
+    float: left;
+}
+
+#logo{
+    float: right;
+}
+
+#line{
+    padding: 1px 50px;
+    text-align: right;
+    color:blue;
+}
+
+  #tx{
+      color: #44b152;
+  }
+
+
+
+.btn {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  float: center;
+  background-color: rgb(241, 248, 243);
+  border: none;
+  color: #0e0c58;
+  padding: 12px 16px;
+  font-size: 16px;
+  height: 25%;
+  width: 20%;
+  cursor: pointer;
+}
